@@ -1,0 +1,88 @@
+# Skillshare
+
+Skillshare is online learning and teaching community where instructors teach their students and students to learn in a particular subject area. It employs thousands of professional instructors who produce valuable content for the audience. 
+
+Every topic has a number of courses that you can explore using the search option. There are some free courses available, but others require a small fee. You can have complete access to the course's introduction and content outline before purchasing it.
+
+Over 41K online courses, nearly 35M students, and more than 1.1M reviews are available on Skillshare. With their longest course having 313 lessons, more than 1.3K of these courses contain more than 50 lessons. 13 million students are registered on the platform, and more than 500K of them are paying users.
+
+# How does Skillshare work?
+
+If your goal is to advance your profession or simply discover new interests, a Skillshare subscription allows you unrestricted access to thousands of expert-led online courses in fields including design, drawing, business, technology, photography, and writing. This is similar to ClassPass for e-learning. 
+
+Classes typically consist of a few brief, easily absorbed lessons and a practical project that you may present to your class to receive feedback from your classmates or work directly with the Skillshare community.
+
+# Skillshare courses
+
+Skillshare has over 41,100 courses available of over 8100 types of variety, which start from beginner to advanced.
+
+The majority of Skillshare courses are made up of brief pre-recorded films that focus on a single skill. On a computer or mobile device, you may go through the content at your own speed. Each lesson ends with a project that allows you to put what you learned into practice. To get feedback from the instructor and other students, you can share your work on the site. 
+
+Chroma Courses is a brand-new programme from Skillshare. Chroma Courses are multi-week, cohort-based, instructor-led learning experiences with real-time dialogue and individualised feedback. New courses will be announced each month. Classes cost $499, and because space is limited, registration is required in advance. To enlist, though, you don't require a premium membership.
+
+## Benefits
+
+* Personalized: Get customized class recommendations based on your interests.
+
+* Access Anywhere: Watch bite-sized classes on your own schedule from anywhere on your desktop, mobile app, or Apple TV.
+
+* Thousands of Classes: Get access to over 45 classes in design, photography, business, and more
+
+## Top 10 Skillshare courses
+
+* Productivity Masterclass taught by a Cambridge-educated doctor and Youtuber, Ali Abdaal
+* Starting a Successful Side-Hustle taught by a Cambridge-educated doctor and Youtuber, Ali Abdaal 
+* Youtube Success: Script, Shoot & Edit with MKBHD taught by a Youtuber, podcaster, and professional ultimate frisbee player, MKBHD
+* How to Study for Exams - An Evidence-Based Masterclass taught by a Cambridge-educated doctor and Youtuber, Ali Abdaal
+Procreate for Beginners: Learn the Basics & Sell Your Artwork taught by an artist, entrepreneur, and educator, Cat Coquillette
+* Adobe Photoshop CC - Essentials Training Course taught by a digital designer and adobe certified trainer, Daniel Scott
+* Adobe Illustrator CC - Essentials Training taught by a digital designer and adobe certified trainer, Daniel Scott
+* Intro to Procreate: Illustrating on the iPad taught by illustrator and children's designer, Brooke Glaser
+* Video Editing with Adobe Premiere Pro for Beginners taught by Youtuber and filmmaker, Jordy Vandeput 
+* Find Your Style: Five Exercises to Unlock Your Creative Identity taught by illustrator, designer, and podcaster, Andy J. Pizza
+* Fundamentals of DSLR photography taught by a fashion and portrait photographer, Justin Bridges
+
+# SkillShare pricing, free trial
+
+For one month, you can test out the monthly membership for free. After the trial, monthly membership costs $32 monthly, and a Premium membership costs $168 a year (or about $14 monthly). 
+
+When you sign up for Skillshare, you can also investigate team volume discounts or price breaks on services like Squarespace Premium and Todoist Premium. 
+
+If you have a valid.edu (college email) email address and are presently enrolled in college, you can get a Skillshare subscription for 50% less.
+
+# Looking for a discount?
+
+To help you avoid shady third-party websites, skillshare offers discounts through coupans.
+
+Discount Code: **LEARN10**
+
+Save 10% off Annual Membership. Valid for new members only. Discounts are applied at the end of your free trial.
+
+# Skillshare membership
+
+Currently, a Skillshare subscription costs $167.88 for a full year or an average of $13.99 per month. 
+
+A premium subscription to Skillshare provides you with: 
+
+access to over 30,000 Skillshare courses without restriction 
+the ability to interact with other students pursuing the courses you are doing in the student community 
+To see Skillshare courses offline, download them (currently only available on tablets and phones, not available on desktops) 
+discounts on SquareSpace and Adobe Creative Cloud, among other creative platforms. 
+Is there a Skillshare plan that is free, you might be wondering? 
+
+In the past, Skillshare provided a free tier with restricted access to a small number of classes. However, they discontinued the free plan in September 2021, leaving only the annual membership plan as an alternative.
+
+# Skillshare Free Course
+
+**Yes, Skillshare is free. But only for the first month.**
+
+Free membership on Skillshare used to include free courses, however, that option is no longer available. Instead, after registering for a Skillshare Premium subscription, the site grants free access for a month (yes, you will need a credit card to sign up). You can choose between two payment options when signing up for the premium subscription: 
+
+Subscription costing $32 per month 
+Annual membership costs $168. (Over 50 per cent savings)
+
+# Skillshare worth it?
+
+Personally, I would say that Skillshare is worthwhile because it is affordable and of great quality.
+
+The good news is that you can try all this for yourself and make your own decision with a one-month free trial.

@@ -1,0 +1,108 @@
+Mailchimp
+Mailchimp is a well-known email marketing platform. Its primary function is to send newsletters and automated emails in order to increase the success of your business. Email marketing allows you to connect with your customers, engage them, and develop meaningful, long-term relationships.
+
+Mailchimp is without a doubt one of the most effective cloud email marketing services for creating, managing, and analysing email marketing campaigns. Its features now include domain and website hosting, landing page creation, a website builder, and CRM functionality.
+
+Why do we need MailChimp?
+You can do everything with Mailchimp, from segmenting your audience and establishing opt-in forms to creating automated emails that send out messages in a specific order to increase conversion. Its delivery rate ranges between 96 and 99 per cent, which is an added bonus.
+
+Mailchimp is a good option if you're searching for an email marketing campaign manager that is also among the top CRM programmes.
+
+Mailchimp is incredibly user-friendly, offers a free edition, and can seamlessly work with any other tool. You'll probably feel at ease with it even if you've never used email marketing software before.
+
+Email Marketing with Mailchimp
+In order to promote your business and boost sales, email marketing lets you interact with your audience.
+
+Finding the ideal email templates for every message is simple with Mailchimp's campaign builder, whether you're wishing someone a happy birthday, welcoming new subscribers, or alerting customers to a discount.
+
+Email Marketing Features
+Email Marketing Field Guide
+No matter if your objective is to increase sales or create your brand, email marketing is one of the most affordable ways to advertise your company. Effective email marketing techniques and anything else you need to know to maximise this platform are provided in our field marketing guide. Learn how to build powerful emails that work for every stage of your sales funnel, test them, and raise your deliverability rates. Then learn how to measure the effectiveness of your emails and the power of marketing automation.
+
+Email Design Guide
+They say that everything is in the presentation. In keeping with this proverb, we've put our top advice into a convenient email design guide for anyone looking to send emails that subscribers click. Every aspect of the design is covered, including calls for action, calls to action, identity, colour, graphics, and layout. We remove the guesswork from what could appear to be the most difficult aspect of sending effective emails because the design is as much a science as it is an art.
+
+Email Design Reference
+You have the option to independently code your emails. However, this is a complex skill that needs a considerable amount of technical knowledge. Whether you're just getting started, curious about the fundamentals of HTML emails, or looking for a guide to coding them, here is what you need to make the coding jump. Additionally, we've compiled a few more tools you could require as you develop into a certified email expert. Before making any selections, look at our comparative guide if you're thinking about using a different platform.
+
+Email Testing
+You can also put your emails to the test. Split testing and testing as many as three variations for campaigns are possible with A/B testing tools such as those provided by Mailchimp.
+
+Subject lines, content, names, and send times can all be tested. You can also test your reach to see how many people receive your emails. Always optimise your emails for maximum impact.
+
+Mailchimp Pricing Plans
+The price of Mailchimps is based on the number of connections you have; the more contacts you have, the more you will have to spend. for a detailed view, you can visit here
+
+Mailchimp marketing platform pricing.
+
+Premium	Standard	Essentials	Free
+Advance segmentation	Customer Journey Builder + Branching Points	Email & Landing Page Templates	Marketing CRM
+Multivariate Testing	Send Time Optimization	Customer Journey Builder	Creative Assistant
+Comparative Reporting	Behavioral Targeting	Custom Branding	Website Builder
+Unlimited Seats & Role-Based Access	Custom Templates	A/B Testing	Mailchimp Domain
+Phone & Priority Support	Dynamic Content	24/7 Email & Chat Support	Forms & Landing Pages
+Monthly email sends: 15x plan’s contact limit.	Monthly email sends: 12x plan’s contact limit.	Monthly email sends: 10x plan’s contact limit.	Monthly email send limit is 10,000 sends (daily limit of 2,000)
+Pros and Cons
+Pros
+Simple and intuitive interface
+At first sight, Mailchimp's user interface is neat, straightforward, and welcoming. To generate eye-catching emails, drag and drop the email designer, edit it, and add your brand's touch.
+
+Ideal for beginners
+Mailchimp is perfect for those who are new to email marketing platforms due to its user-friendly interface and numerous connections. In addition, its "free" plan makes it a desirable starter package for newcomers.
+
+Segmentation
+The segmentation function in Mailchimp makes it simple to carry out basic audience segmentation. You may design more focused, accurate, and pertinent ads using their advanced segmentation capability based on a variety of combinations, including purchase activity, gender, age range, and more.
+
+A/B testing
+While the majority of email service providers provide A/B testing, Mailchimp's premium plans allow you to test numerous content variations. For instance, you can experiment with a different headline, image, and body copy combinations to discover which one resonates the most.
+
+To determine which permutations and combinations generated clicks, Mailchimp offers a thorough evaluation of the performance of each combination.
+
+Cons
+Affordable, only in the short-term
+Going with their free email newsletter plan as a new company or startup appears like an affordable choice because it provides the majority of the services for no additional cost.
+
+However, when your company expands and you reach 2,000 contacts, you realise this strategy won't work for you anymore. forcing you to purchase an upgrade at a significant price premium. As previously indicated, the free option only functions with the Mailchimp logo at the bottom, which is undesirable for the majority of professional senders. Additionally, the free version's support is relatively restricted.
+
+Limited automation features
+Limited automation capabilities are provided by Mailchimp, which is a major letdown coming from a well-known email service provider like theirs.
+
+Although it does include basic options like autoresponders and feedback emails, it cannot create bespoke automation or the kind of sophisticated segmentation that its rivals can.
+
+Limited customer support
+In comparison to other companies, Mailchimp's customer service is pretty inadequate. You only receive support via email for the first 30 days with the free email marketing plan.
+
+Even though you have access to their Knowledge Base, there may be times when you need customer service, in which case you must upgrade to paid plans.
+
+Up to the premium plan, there is still no phone assistance.
+
+Mailchimp Alternative
+Moosend
+The first to go is Moosend! If you believe that Mailchimp can meet all of your needs but is a bit pricy, Moosend has got you covered!
+
+The most advantageous aspect of Moosend is that you pay less for the same features. When you make the switch, a drag-and-drop email builder will appear that is simple for you to learn.
+
+HubSpot
+In addition to its simple drag-and-drop editor and adaptable templates, HubSpot is built to support your business growth with a wealth of optimization tools.
+
+But when integrated with the CRM and marketing automation platform, HubSpot's marketing email tool truly shines.
+
+With the aid of HubSpot, you are able to design intricate email campaigns that offer each contact a customised experience depending on the data you've gathered in the CRM.
+
+Omnisend
+It is targeted towards eCommerce enterprises, as opposed to Mailchimp, and has features that can help you increase sales while better understanding your subscribers and clients.
+
+Using technologies like popups, user segmentation, and marketing automation, the technology aids retailers in better covering their eCommerce marketing funnel.
+
+Additionally, Omnisend provides a complimentary subscription that permits customers to access all of its capabilities. The platform is mainly useful for small firms or larger businesses with extensive contact lists who wish to try the service without paying upfront because there is a limit of 250 contacts.
+
+We have a furthur detailed view on Mailchimp Alternative, here
+
+Is Mailchimp worth it?
+If you're a startup or a small business with basic requirements, this is a great place to start. The software is ideal for sending out basic newsletters and automating basic tasks. You can also use it to build a simple but visually appealing website and host it on a Mailchimp domain.
+
+Not to mention Mailchimp's free plan, which is quite good.
+
+Overall, it's a very user-friendly platform, and the drag-and-drop email builder is simple to use. However, if your requirements are more complex, Mailchimp can quickly become an expensive platform.
+
+Before deciding on a system, consider your needs and conduct a thorough analysis. This is a good option if you only need basic email sending capabilities. If you decide that Mailchimp is not the right platform for you, consider some Mailchimp alternatives such as Moosend, Hubspot, and Getresponse.
